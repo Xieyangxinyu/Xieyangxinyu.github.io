@@ -5,8 +5,6 @@
 layout: home
 ---
 
-## About Me
-
 ![image](/images/xinyu.jpg){: style="float: left; width: 30%; height: auto; margin-right: 20px; margin-bottom: 10px;"}
 
 
