@@ -5,11 +5,14 @@ permalink: /publications/
 ---
 
 ### Preprint
+- **Xie, Y.**, Li, X., Mallick, T., Su, W. J., and Zhang, R. Debiasing Watermarks for Large Language Models via Maximal Coupling. arXiv preprint arXiv:2411.11203. [\[Link\]](https://arxiv.org/abs/2411.11203)[\[Code\]](https://github.com/Xieyangxinyu/Unbiased-Watermark-via-Maximal-Coupling)
+- **Xie, Y.** and Bhattacharya, B.B., 2024. Joint Poisson Convergence of Monochromatic Hyperedges in Multiplex Hypergraphs. arXiv preprint arXiv:2412.00610. [\[Link\]](https://arxiv.org/abs/2412.00610)
 - **Xie, Y.**, Mallick, T., Bergerson, J., Hutchison, J., Verner, D., Branham, J., Alexander, R., Ross, R., Feng, Y., Levy, L.-A., and Su, W.. WildfireGPT: Tailored Large Language Model for Wildfire Analysis. arXiv preprint arXiv:2402.07877. [\[Link\]](https://arxiv.org/abs/2402.07877)
 - Baptista, R., O’Reilly, E., and **Xie, Y**. TrIM: Transformed Iterative Mondrian Forests for Gradient-based Dimension Reduction and High-Dimensional Regression. arXiv preprint, arXiv:2407.09964. [\[Link\]](https://arxiv.org/abs/2407.09964)
+[\[Code\]](https://github.com/Xieyangxinyu/TrIM)
 
 ### 2024
-- Jiang, B., **Xie, Y.**, Hao, Z., Wang, X., Taylor, C. J., Su, W. J., Mallick, T. and Roth, D. A Peek into Token Bias: Large Language Models Are Not Yet Genuine Reasoners. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP). [\[Link\]](https://arxiv.org/abs/2406.11050)
+- Jiang, B., **Xie, Y.**, Hao, Z., Wang, X., Taylor, C. J., Su, W. J., Mallick, T. and Roth, D. A Peek into Token Bias: Large Language Models Are Not Yet Genuine Reasoners. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP). [\[Link\]](https://arxiv.org/abs/2406.11050)[\[Code\]](https://github.com/bowen-upenn/llm_token_bias)
 
 ### 2023
 - Krenn, M., Buffoni, L., Coutinho, B., Eppel, S., Foster, J.G., Gritsevskiy, A., Lee, H., Lu, Y., Moutinho, J.P., Sanjabi, N., Sonthalia, R., Tran, N., Valente, F., **Xie, Y.**, Yu, R., and Kopp, M. *Forecasting the future of artificial intelligence with machine learning-based link prediction in an exponentially growing knowledge network.* Nature Machine Intelligence, pp.1-10. [\[Link\]](https://www.nature.com/articles/s42256-023-00735-0).
