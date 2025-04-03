@@ -20,4 +20,4 @@ I finished my master’s degree in computer science at the University of Texas a
 
 ### News
 
-I will help organize the workshop From Data to Discovery: Exploring AI with a Patent Case Study, ChatGPT, and Generative Models at the [Women in Data Science @ Penn (WiDS @ Penn) Conference](https://ai-analytics.wharton.upenn.edu/events/women-in-data-science-penn-conference-2025-workshop/) on Thursday, February 13, 2025.
+I will help organize the workshop From Data to Discovery: Exploring AI with a Patent Case Study, ChatGPT, and Generative Models at the [Women in Data Science @ Penn (WiDS @ Penn) Conference](https://ai-analytics.wharton.upenn.edu/events/women-in-data-science-penn-conference-2025-workshop/) on Friday, April 4, 2025. Here is the [instruction](/instruction_wids/).
