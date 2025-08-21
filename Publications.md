@@ -4,12 +4,20 @@ title: Publications
 permalink: /publications/
 ---
 
+
 ### Preprint
-- **Xie, Y.**, Li, X., Mallick, T., Su, W. J., and Zhang, R. Debiasing Watermarks for Large Language Models via Maximal Coupling. arXiv preprint arXiv:2411.11203. [\[Link\]](https://arxiv.org/abs/2411.11203)[\[Code\]](https://github.com/Xieyangxinyu/Unbiased-Watermark-via-Maximal-Coupling)
-- **Xie, Y.** and Bhattacharya, B.B., 2024. Joint Poisson Convergence of Monochromatic Hyperedges in Multiplex Hypergraphs. arXiv preprint arXiv:2412.00610. [\[Link\]](https://arxiv.org/abs/2412.00610)
-- **Xie, Y.**, Mallick, T., Bergerson, J., Hutchison, J., Verner, D., Branham, J., Alexander, R., Ross, R., Feng, Y., Levy, L.-A., and Su, W.. WildfireGPT: Tailored Large Language Model for Wildfire Analysis. arXiv preprint arXiv:2402.07877. [\[Link\]](https://arxiv.org/abs/2402.07877)
-- Baptista, R., O’Reilly, E., and **Xie, Y**. TrIM: Transformed Iterative Mondrian Forests for Gradient-based Dimension Reduction and High-Dimensional Regression. arXiv preprint, arXiv:2407.09964. [\[Link\]](https://arxiv.org/abs/2407.09964)
-[\[Code\]](https://github.com/Xieyangxinyu/TrIM)
+- **Xie, Y.** and Bhattacharya, B.B. *Joint Poisson Convergence of Monochromatic Hyperedges in Multiplex Hypergraphs.* [\[Link\]](https://arxiv.org/abs/2412.00610)  
+- **Xie, Y.**, Chen, X., Ren, Z., and Su, W.J. *Watermark in the Classroom: A Conformal Framework for Adaptive AI Usage Detection.* [\[Link\]](https://arxiv.org/abs/2507.23113)  
+- Baptista, R., O’Reilly, E., and **Xie, Y.** *TrIM: Transformed Iterative Mondrian Forests for Gradient-based Dimension Reduction and High-Dimensional Regression.* [\[Link\]](https://arxiv.org/abs/2407.09964) [\[Code\]](https://github.com/Xieyangxinyu/TrIM)  
+- Jiang, B., **Xie, Y.**, Wang, X., He, J., Bergerson, J., Hutchison, J. K., Taylor, C. J., and Mallick, T. *GeoGrid-Bench: Can Foundation Models Understand Multimodal Gridded Geo-Spatial Data?* [\[Link\]](https://arxiv.org/abs/2505.10714)  
+- Noarov, G., Mallick, S., Wang, T., Joshi, S., Sun, Y., **Xie, Y.**, Yu, M., and Dobriban, E. *Foundations of Top-k Decoding For Language Models.* [\[Link\]](https://arxiv.org/abs/2505.19371)  
+- de Rijke, M., van den Hurk, B., Salim, F., Al Khourdajie, A., Bai, N., Calzone, R., Curran, D., Demil, G., Frew, L., Gießing, N., Gupta, M. K., Heuss, M., Hobeichi, S., Huard, D., Kang, J., Lucic, A., Mallick, T., Nath, S., Okem, A., Pernici, B., Rajapakse, T., Saleem, H., Scells, H., Schneider, N., Spina, D., Tian, Y., Totin, E., Trotman, A., Valavandan, R., Workneh, D., **Xie, Y.** *Information Retrieval for Climate Impact.* [\[Link\]](https://arxiv.org/abs/2504.01162)  
+
+
+### 2025
+- **Xie, Y.**, Li, X., Mallick, T., Su, W. J., and Zhang, R. *Debiasing Watermarks for Large Language Models via Maximal Coupling.* Accepted at *Journal of the American Statistical Association (JASA)* Special Issue on Statistical Science in AI. [\[Link\]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2520455) [\[Code\]](https://github.com/Xieyangxinyu/Unbiased-Watermark-via-Maximal-Coupling)  
+- **Xie, Y.**, Jiang, B., Mallick, T., Bergerson, J., Hutchison, J.K., Verner, D.R., Branham, J., Alexander, M.R., Ross, R.B., Feng, Y., and Levy, L.A. *MARSHA: Multi-agent RAG System for Hazard Adaptation.* *npj Climate Action*, 4(1), p.70. [\[Link\]](https://www.nature.com/articles/s44168-025-00254-1) [\[Code\]](https://github.com/project-araia/WildfireGPT)
+- Jiang, B., **Xie, Y.**, Wang, X., Yuan, Y., Hao, Z., Bai, X., Su, W. J., Taylor, C. J., and Mallick, T. *Towards Rationality in Language and Multimodal Agents: A Survey.* In Proceedings of the 2025 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). [\[Link\]](https://aclanthology.org/2025.naacl-long.186/) 
 
 ### 2024
 - Jiang, B., **Xie, Y.**, Hao, Z., Wang, X., Taylor, C. J., Su, W. J., Mallick, T. and Roth, D. A Peek into Token Bias: Large Language Models Are Not Yet Genuine Reasoners. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP). [\[Link\]](https://arxiv.org/abs/2406.11050)[\[Code\]](https://github.com/bowen-upenn/llm_token_bias)
