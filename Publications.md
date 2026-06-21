@@ -13,7 +13,8 @@ permalink: /publications/
 
 
 ### 2026
-- **Xie, Y.**, Wang, T., Mallick, S., Sun, Y., Noarov, G., Yu, M., Mallick, T., Su, W. J., and Dobriban, E. *Statistical Early Stopping for Reasoning Models.* Accepted at *International Conference on Machine Learning (ICML 2026).* [\[Link\]](https://arxiv.org/abs/2602.13935)
+- Chen, X., Li, X., **Xie, Y.**, and Long, Q. *Selective Disclosure Watermarking for Large Language Models.* Accepted at *International Conference on Machine Learning (ICML 2026).* [\[PDF\]](https://openreview.net/pdf?id=Oi1AISOxzt)
+- **Xie, Y.**, Wang, T., Mallick, S., Sun, Y., Noarov, G., Yu, M., Mallick, T., and Dobriban, E. *Statistical Early Stopping for Reasoning Models.* Accepted at *International Conference on Machine Learning (ICML 2026).* [\[PDF\]](https://openreview.net/pdf?id=TJshRZDdyW)
 - **Xie, Y.**, Chen, X., Ren, Z., and Su, W.J. *Watermark in the Classroom: A Conformal Framework for Adaptive AI Usage Detection.* *Harvard Data Science Review (HDSR).* [\[Link\]](https://hdsr.mitpress.mit.edu/pub/m4mz70zp/release/5?readingCollection=d663ac25)
 
 
