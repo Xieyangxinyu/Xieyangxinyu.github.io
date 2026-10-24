@@ -8,12 +8,12 @@ permalink: /publications/
 ### Preprint
 - Shomee, H. H., Chaturvedi, R., **Xie, Y.**, and Mallick, T. *SCORE: Specificity, Context Utilization, Robustness, and Relevance for Reference-Free LLM Evaluation.* [\[Link\]](https://arxiv.org/abs/2602.10017)  
 - Alcala, J., Andreeva, R., Kobzar, V. A., Mixon, D. G., Na, S., Sule, S., and **Xie, Y.** *Neural Collapse in the Orthoplex Regime.* [\[Link\]](https://arxiv.org/abs/2603.20587)  
-- **Xie, Y.** and Bhattacharya, B.B. *Joint Poisson Convergence of Monochromatic Hyperedges in Multiplex Hypergraphs.* [\[Link\]](https://arxiv.org/abs/2412.00610)  
 - Baptista, R., O’Reilly, E., and **Xie, Y.** *TrIM: Transformed Iterative Mondrian Forests for Gradient-based Dimension Reduction and High-Dimensional Regression.* [\[Link\]](https://arxiv.org/abs/2407.09964) [\[Code\]](https://github.com/Xieyangxinyu/TrIM)
 - Dhruv, A., **Xie, Y.**, Branham, J., and Mallick, T. *Comparative Evaluation of Prompting and Fine-Tuning for Applying Large Language Models to Grid-Structured Geospatial Data.* [\[Link\]](https://arxiv.org/abs/2505.17116)
 
 
 ### 2026
+- **Xie, Y.** and Bhattacharya, B.B. *Joint Poisson Convergence of Monochromatic Hyperedges in Multiplex Hypergraphs.* *Advances in Applied Probability (AAP).* [\[Link\]](https://www.sciencedirect.com/science/article/abs/pii/S0196885826001235) [\[arXiv\]](https://arxiv.org/abs/2412.00610)
 - Chen, X., Li, X., **Xie, Y.**, and Long, Q. *Selective Disclosure Watermarking for Large Language Models.* Accepted at *International Conference on Machine Learning (ICML 2026).* [\[PDF\]](https://openreview.net/pdf?id=Oi1AISOxzt)
 - **Xie, Y.**, Wang, T., Mallick, S., Sun, Y., Noarov, G., Yu, M., Mallick, T., and Dobriban, E. *Statistical Early Stopping for Reasoning Models.* Accepted at *International Conference on Machine Learning (ICML 2026).* [\[PDF\]](https://openreview.net/pdf?id=TJshRZDdyW)
 - **Xie, Y.**, Chen, X., Ren, Z., and Su, W.J. *Watermark in the Classroom: A Conformal Framework for Adaptive AI Usage Detection.* *Harvard Data Science Review (HDSR).* [\[Link\]](https://hdsr.mitpress.mit.edu/pub/m4mz70zp/release/5?readingCollection=d663ac25)
